@@ -8,7 +8,7 @@ My grade 10 IT project had the topic "Maths for children". I created an applicat
 ![Game screen](readme_images/GameScreen.png?raw=true "Game screen")
 
 ## Issues
-The text files containing the records were not saved on GitHub. These need to be uploaded before it will be working as designed.
+If the program cannot find the record text files, copy the "src/records" folder, go into the "dist" folder and create a folder called "src", copy the "records" folder here.
 
 ## Author
 **Ralph McDougall** - [GitHub](https://github.com/RalphMcDougall)
